@@ -29,7 +29,7 @@
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title panel-style"><i class = "fa fa-key"></i> Please Sign In</h3>
+                        <h3 class="panel-title panel-style"><i class = "fa fa-key"></i> Admin Sign In </h3>
                     </div>
                     <div class="panel-body">
 					<form method="POST" id="login_form">
@@ -43,10 +43,6 @@
                                 <!-- Change this to a button or input when using this as a form -->
                                 <button class="btn btn-lg btn-success btn-block">Login</button>
                             </fieldset>
-
-                            <div  id="correct">
-										<h4 class="green smaller lighter">Access Granted</h4>
-									</div>
 									
 									<div id="error">
 										<h4 class="red smaller lighter">Login Failed</h4	>
