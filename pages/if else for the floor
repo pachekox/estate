@@ -1,0 +1,10 @@
+$(".classname").on("change", function(){
+    var a = $(this).val();
+    if(a == "A1"){
+      $(".classelect").append("<option></option>")
+    }
+    else if()
+    {
+    
+    }
+});
